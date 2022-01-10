@@ -1,0 +1,9 @@
+h2 {
+  font-family: var(--Nanum);
+}
+
+.imagen {
+  object-fit: contain;
+  vertical-align: middle;
+  width: 100%;
+}

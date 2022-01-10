@@ -1,0 +1,11 @@
+span {
+  font-weight: 700;
+}
+
+.smallerText {
+  font-family: var(--Nanum), cursive;
+}
+
+a {
+  font-weight: 700;
+}
